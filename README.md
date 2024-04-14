@@ -1,5 +1,17 @@
 # Pedagogy-Helper
 
+<div>
+    <a target="_blank" href="https://greasyfork.org/zh-CN/scripts/492479-%E6%95%99%E5%AD%A6%E7%AB%8B%E6%96%B9%E4%BD%9C%E4%B8%9A%E5%8A%A9%E6%89%8B" title="教学立方作业助手">
+        <img alt="Greasy Fork" src="https://img.shields.io/greasyfork/v/492479">
+    </a>
+    <a target="_blank" href="#LICENSE" title="License: Apache-2.0">
+        <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg">
+    </a>
+    <a target="_blank" href="https://github.com/Flying-Tom/Pedagogy-Helper" title="License: Pedagogy-Helper">
+        <img src="https://img.shields.io/github/languages/code-size/Flying-Tom/Pedagogy-Helper">
+    </a>
+</div>
+
 能够简化教学立方作业登分流程的油猴脚本
 
 > 该脚本考虑的情景是仅使用教学立方进行分数登记
